@@ -84,6 +84,11 @@ Improving cloud-based solutions and implementing microservices architecture.<br>
   - Involved in executing SQL queries.
   - Involved in writing code to read the XML files and Flat files.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sauravq405&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sauravq405&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravq405&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 📚 Education:
 - **B.Tech (Electronics & Tele Communications)** - BPUT, 2013
 
