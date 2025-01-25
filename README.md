@@ -51,6 +51,9 @@ Improving cloud-based solutions and implementing microservices architecture.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sauravq405&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravq405&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 LeetCode Stats:
+![](https://leetcard.jacoblin.cool/sauravq405?theme=dark)<br/>
+
 # 📚 Education:
 - **B.Tech (Electronics & Tele Communications)** - BPUT, 2013
 
