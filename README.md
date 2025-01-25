@@ -28,61 +28,23 @@ Improving cloud-based solutions and implementing microservices architecture.<br>
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 # 💼 Professional Experience:
-- **J2EE Application Developer/DevOps Engineer**  (08/2022 - Present)  
-  - Utilized Core Java, Cloudlab CI/CD, Shell Scripting, Jenkins, Docker, and Kubernetes for developing and managing converged server-based applications like OCCAS.
-  - Worked in uplifting third-party dependencies to the latest versions and running JUnit tests to ensure code correctness.
-  - Developed listener for the diameter protocol of the application.
-  - Involved in performance testing, verified through increasing SIP call loads using SIPp tool.
-  - Generated Java documentation for the application.
-  - Created Cloudlab CI/CD pipelines for generating application patches and Docker images, pushing them to repositories.
-  - Automated cloud-native application deployment and performed integration tests using the nautilus-test framework.
+- **J2EE Application Developer/DevOps Engineer** at Oracle (08/2022 - Present)  
+  - Utilized Core Java, Cloudlab CI/CD, Shell Scripting, Jenkins, Docker, and Kubernetes for developing and managing applications like OCCAS.
 
 - **J2EE Application Developer** at Cognizant (11/2021 - 08/2022)  
   - Migrated monolithic applications to microservices using Spring Boot, Spring Cloud, and AWS services for projects like New To Bank.
-  - Involved in end-to-end migration, contributing to design and implementation of microservice architecture.
-  - Developed services with clear separation of business logic.
-  - Created a service for common validation logic across all onboarding requests and specific logic for each stage.
-  - Managed data migration and developed REST endpoints for data manipulation in the existing database.
-  - Developed a notification service for OTP validation and push notifications.
-  - Implemented an exception service for handling errors during application submission, pushing them to a queue for retry.
-  - Created batch applications to schedule cron jobs, collect application data, and store it in the database.
 
 - **J2EE/Spring Boot Application Developer** at Cognizant (02/2021 - 10/2021)  
   - Worked on authentication and authorization services for Digital Secure Keys using Spring Security and OAuth2.
-  - Managed server-side code creation and maintenance for DSK application using Core Java, Spring Boot, and Spring Security.
-  - Developed microservices to issue OAuth2 tokens for other microservices.
-  - Handled end-to-end development from Models to View layer.
-  - Improved application performance utilizing Java 8 solutions.
-  - Utilized JPA, Spring Batch, and Apache POI for automated report generation.
 
 - **J2EE/Spring Boot Application Developer** at Accenture (10/2019 - 02/2021)  
   - Developed payment systems for Lease and Payment System with Spring Batch and JPA.
-  - Managed server-side code for LPS application using Core Java, Spring Boot, and Spring Batch.
-  - Analyzed client requirements to segregate functionalities into microservices.
-  - Developed services from Models to View layer.
-  - Enhanced performance with Java 8 features.
-  - Automated report generation using JPA, Spring Batch, and Apache POI.
 
 - **J2EE Application Developer** at HCL Technologies (09/2017 - 12/2018)  
   - Engaged in web application development for Merck's Aspera Resource Portal using Spring MVC and Hibernate.
-  - Implemented a frontend for automating order cancellation as a value addition.
-  - Developed Data Access Objects (DAO) for the application.
-  - Executed Teradata queries for data management.
-  - Developed and implemented logic to extend and consume LDAP services for user authentication.
-
-- **J2EE Application Developer** at HCL Technologies (10/2016 - 08/2017)  
-  - Worked on the Common Enrolment Portal (CEP) for Merck, replacing registration functionalities of various applications.
-  - Involved in consuming web-services for LDAP data operations.
-  - Developed Models and DAOs for the application.
-  - Implemented logic for Oracle procedures.
-  - Fixed defects reported post the first production build.
 
 - **J2EE Application Developer** at HCL Technologies (10/2015 - 09/2016)  
   - Engaged in web application development for Merck's Internal Expense Fulfillment (MIEF) using Core Java, Hibernate, Spring MVC, JSP, JavaScript, CSS, Ajax, log4j, XML parsers (Sax parser), Oracle 10g, and Maven.
-  - Involved in analyzing log files and fixing bugs of the core system.
-  - Involved in developing DAO for the application.
-  - Involved in executing SQL queries.
-  - Involved in writing code to read the XML files and Flat files.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sauravq405&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
