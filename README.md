@@ -29,7 +29,7 @@ Improving cloud-based solutions and implementing microservices architecture.<br>
 
 # 💼 Professional Experience:
 - **J2EE Application Developer/DevOps Engineer** at Oracle (08/2022 - Present)  
-  - Utilized Core Java, Cloudlab CI/CD, Shell Scripting, Jenkins, Docker, and Kubernetes for developing and managing applications like OCCAS.
+  - Utilized Core Java, Cloudlab CI/CD, Shell Scripting, Jenkins, Docker, and Kubernetes for developing and managing sip-server based applications.
 
 - **J2EE Application Developer** at Cognizant (11/2021 - 08/2022)  
   - Migrated monolithic applications to microservices using Spring Boot, Spring Cloud, and AWS services for projects like New To Bank.
