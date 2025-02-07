@@ -28,7 +28,7 @@ Improving cloud-based solutions and implementing microservices architecture.<br>
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 # 💼 Professional Experience:
-- **J2EE Application Developer/DevOps Engineer** at Oracle (08/2022 - Present)  
+- **J2EE Application Developer/DevOps Engineer** (08/2022 - Present)  
   - Utilized Core Java, Cloudlab CI/CD, Shell Scripting, Jenkins, Docker, and Kubernetes for developing and managing sip-server based applications.
 
 - **J2EE Application Developer** at Cognizant (11/2021 - 08/2022)  
